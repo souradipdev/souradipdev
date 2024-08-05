@@ -39,8 +39,6 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />&ensp;     
 </p>
 
-###### &nbsp;
-
 ### **3. Softwares:**
 
 <p>
@@ -51,8 +49,6 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />&ensp;        
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&ensp;     
 </p>
-
-###### &nbsp;
 
 ### **4. Tools and Services:**
 <p>
@@ -66,9 +62,6 @@ Here's a list of all the technologies I have used. The ones I use the most are l
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&ensp;          
 </p>
 
-<p>&nbsp;</p>
-
-###### &nbsp;
 
 ### **5. Database:**
 <p>
