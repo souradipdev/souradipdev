@@ -10,7 +10,7 @@ Hi, I am Souradip Saha.
 
 - ❓Ask me anything about **_Java_** and **_Web Development_**.
 
-- 📨 How to **_reach_** me 👉 [**_click here_**](mailto:souradipsaha2004@gmail.com?body=Hey%20Samyabrata)
+- 📨 How to **_reach_** me 👉 [**_click here_**](mailto:souradipsaha2004@gmail.com?body=Hey%20Souradip)
 
 <p>&nbsp;</p>
 
