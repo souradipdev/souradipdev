@@ -76,7 +76,7 @@ If you want help reguarding something, feel free to reach out to me.
 
 <p>
 <a href="https://x.com/Souradi38877748" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/twitter-circled--v1.png"/></a>&ensp;
-<a href="mailto:samyabratamaji334@gmail.com?body=Hey%20Samyabrata," target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>&ensp;
+<a href="mailto:souradipsaha2004@gmail.com?body=Hey%20Souradip" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>&ensp;
 <a href="https://discordapp.com/users/programist_2278" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/color/48/null/discord--v2.png"/></a>&ensp;
 <a href="https://www.instagram.com/souradip_2022/" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/></a>&ensp;
 </p>
